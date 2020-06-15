@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  🚀&nbsp;&nbsp;&nbsp;Semana OmniStack 11.0
 </h4>
 
 <br>
@@ -12,7 +12,7 @@
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket:&nbsp;&nbsp;&nbsp;Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -21,10 +21,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻&nbsp;&nbsp;&nbsp;Projeto
 
 O BeTheHero é um projeto, desenvolvido pela [Rocketseat](https://rocketseat.com.br/), que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
-## 🔖 Layout
+## 🔖&nbsp;&nbsp;&nbsp;Layout
 
 Você pode visualizar o layout do projeto disponibilizado pela Rocketseat através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394).
